@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Poetsen+One&display=swap');
+html, body{
+    height: 100%;
+    width: 100%;
+    font-family: "Poetsen One", sans-serif;
+    font-weight: 400;
+    font-style: normal
+}
+.button{
+    padding: 20px;
+    background-color: gray;
+    color: white;
+    border: 2px;
+    border-radius: 10px;
+    border-color: gray;
+    cursor: pointer;
+    width: 64px;
+}
+.button1{
+    padding: 20px;
+    background-color: chocolate;
+    color: white;
+    border: 2px;
+    border-radius: 10px;
+    border-color: chocolate;
+    cursor: pointer;
+    width: 64px;
+}
+.button2{
+    padding: 20px;
+    background-color: rgb(31, 30, 30);
+    color: white;
+    border: 2px;
+    border-radius: 10px;
+    border-color:rgb(31, 30, 30);
+    cursor: pointer;
+    width: 64px;
+}
+.button3{
+    padding: 20px;
+    background-color: rgb(31, 30, 30);
+    color: white;
+    border: 2px;
+    border-radius: 10px;
+    border-color:rgb(31, 30, 30);
+    cursor: pointer;
+    width: 135px;
+}
+.row{
+    margin: 10px 0;
+}
+.row input{
+    font-size:23px ;
+    margin: 0;
+    padding: 10px 0px;
+    border: 2px black;
+    border-radius: 10px;
+    width: 275px;
+}
